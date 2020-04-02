@@ -8,3 +8,5 @@ My Blog
 [解决Asp.Net配置异常杂记](https://github.com/yuanrui/blog/issues/4)
 
 [Python核心编程学习笔记](https://github.com/yuanrui/blog/issues/27)
+
+[英文单词命名简写参考（附翻译）](https://github.com/yuanrui/blog/issues/28)
