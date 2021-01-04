@@ -10,3 +10,5 @@ My Blog
 [Python核心编程学习笔记](https://github.com/yuanrui/blog/issues/27)
 
 [英文单词命名简写参考（附翻译）](https://github.com/yuanrui/blog/issues/28)
+
+[常见 MIME(Content Type) 类型列表](https://github.com/yuanrui/blog/issues/25)
