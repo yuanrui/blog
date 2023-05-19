@@ -8,7 +8,7 @@
   "dependencies": {
     "gitalk": "^1.7.2",
     "hexo": "^6.3.0",
-    "hexo-deployer-git": "^0.2.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-filter-flowchart": "^1.0.4",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-baidu-sitemap": "^0.1.9",
