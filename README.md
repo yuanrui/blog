@@ -3,7 +3,9 @@ My Blog
 
 [解决VS2017克隆TFS git库失败问题](https://github.com/yuanrui/blog/issues/21)
 
-[C++ Primer 中文版(第5版)](https://github.com/yuanrui/blog/issues?q=is%3Aissue+is%3Aopen+label%3AC%2B%2B+label%3Alearning+)
+[C++ Primer 中文版(第5版)学习笔记](https://github.com/yuanrui/blog/issues?q=is%3Aissue+is%3Aopen+label%3AC%2B%2B+label%3Alearning+)
+
+[LeetCode 解题记录](https://github.com/yuanrui/blog/issues?q=is%3Aissue+label%3ALeetCode)
 
 [为Asp.Net Mvc项目的Js和Css添加版本号处理](https://github.com/yuanrui/blog/issues/1)
 
